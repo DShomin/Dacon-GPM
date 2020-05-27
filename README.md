@@ -13,7 +13,7 @@ H_flip & V_flip
 kl_divergence(sigmoid(label), sigmoid(model_pred)) + mae(label, model_pred)
 
 ## optimizer 
-### Adam
+Adam
 
 ## Ensemble
 ### K-Fold Ensemble
