@@ -17,6 +17,7 @@ kl_divergence(sigmoid(label), sigmoid(model_pred)) + mae(label, model_pred)
 
 ## Ensemble
 ### K-Fold Ensemble
+5 fold
 ### TTA 
 H_flip & V_flip
 
